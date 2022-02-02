@@ -1,4 +1,4 @@
-#include "../include/kmeans.hpp"
+#include "../include/kmeans.h"
 
 kmeans::kmeans(int k)
 {
